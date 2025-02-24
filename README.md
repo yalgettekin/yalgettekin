@@ -33,7 +33,7 @@ Analyzing vehicle density and peak traffic hours in İzmir’s main roads.
 
 ### 🌿 İzmir Green Space Accessibility (Upcoming)  
 Analyzing green space accessibility in İzmir using **Python for data analysis and GIS for spatial visualization**.  
-🔗 **[Coming Soon]**   
+🔗 **[View Repository](https://github.com/yalgettekin/izmir-green-space-analysis)**   
 
 ---
 
