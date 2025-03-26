@@ -35,6 +35,10 @@ Analyzing vehicle density and peak traffic hours in İzmir’s main roads.
 Analyzing green space accessibility in İzmir using **Python for data analysis and GIS for spatial visualization**.  
 🔗 **[View Repository](https://github.com/yalgettekin/izmir-green-space-analysis)**   
 
+### 🏙️ London Urban Insights  
+Exploring urban structure and demographic trends in London through data analysis and Python notebooks.  
+Includes housing price prediction, population distribution, and spatial accessibility projects.  
+🔗 **[View Repository](https://github.com/yalgettekin/london-urban-insights)
 ---
 
 ## 🛠️ Technical Skills  
