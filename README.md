@@ -38,7 +38,8 @@ Analyzing green space accessibility in İzmir using **Python for data analysis a
 ### 🏙️ London Urban Insights  
 Exploring urban structure and demographic trends in London through data analysis and Python notebooks.  
 Includes housing price prediction, population distribution, and spatial accessibility projects.  
-🔗 **[View Repository](https://github.com/yalgettekin/london-urban-insights)
+🔗 **[View Repository](https://github.com/yalgettekin/london-urban-insights)**
+
 ---
 
 ## 🛠️ Technical Skills  
