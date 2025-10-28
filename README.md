@@ -27,18 +27,22 @@ Urban Planning, GIS, Spatial Data Science, Public Transport Analysis.
 
 ## 🗂️ My Portfolio Projects  
 
-### 🚗 İzmir Traffic Analysis  
-Analyzing vehicle density and peak traffic hours in İzmir’s main roads.  
-🔗 **[View Repository](https://github.com/yalgettekin/izmir_traffic_analysis)**  
+### Izmir Urban Insights  
+Exploring urban structure and demographic trends in Izmir/Turkey through data analysis and Python notebooks.  
+🔗 **[View Repository](https://github.com/yalgettekin/izmir_urban_insights)**
 
-### 🌿 İzmir Green Space Accessibility (Upcoming)  
-Analyzing green space accessibility in İzmir using **Python for data analysis and GIS for spatial visualization**.  
-🔗 **[View Repository](https://github.com/yalgettekin/izmir-green-space-analysis)**   
-
-### 🏙️ London Urban Insights  
+### London Urban Insights  
 Exploring urban structure and demographic trends in London through data analysis and Python notebooks.  
 Includes housing price prediction, population distribution, and spatial accessibility projects.  
 🔗 **[View Repository](https://github.com/yalgettekin/london-urban-insights)**
+
+### İzmir Traffic Analysis  
+Analyzing vehicle density and peak traffic hours in İzmir’s main roads.  
+🔗 **[View Repository](https://github.com/yalgettekin/izmir_traffic_analysis)**  
+
+### İzmir Green Space Accessibility (Upcoming)  
+Analyzing green space accessibility in İzmir using **Python for data analysis and GIS for spatial visualization**.  
+🔗 **[View Repository](https://github.com/yalgettekin/izmir-green-space-analysis)**   
 
 ---
 
