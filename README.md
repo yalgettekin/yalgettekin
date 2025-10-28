@@ -1,31 +1,31 @@
 
-# 👋 Hi, I'm Naile Yalgettekin!  
-🚀 Urban Planner | 🌍 GIS & Data Science Enthusiast | 📊 Spatial Data Analyst  
+#  Hi, I'm Naile Yalgettekin!  
+ Urban Planner | GIS & Data Science Enthusiast | Spatial Data Analyst  
 
 I'm an urban planner transitioning into data science, with a strong interest in spatial analysis.  
 I work with **GIS, Python, and Machine Learning** to solve urban, environmental, and transportation challenges.  
 
 ---
 
-## 🔭 I’m currently working on:  
+## I’m currently working on:  
 Developing **data science projects** with a focus on **spatial analysis, urban planning, and transportation data**.
 
-🌱 **I’m currently learning:**  
+**I’m currently learning:**  
 - Spatial Data Science with **GeoPandas & QGIS**  
 - **Machine Learning** for data-driven decision-making (**Scikit-learn, TensorFlow**)  
 - **Advanced Python** for data analysis and automation (**Pandas, NumPy, Matplotlib**)  
 - **Geospatial Data Science** for location-based analytics (**GeoPandas, QGIS, Folium, OpenStreetMap**)  
 
-💬 **Ask me about:**  
+**Ask me about:**  
 Urban Planning, GIS, Spatial Data Science, Public Transport Analysis.  
 
-📫 **How to reach me:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/naile-yalgettekin-2b8a43100/)  
+**How to reach me:**  
+-  [LinkedIn](https://www.linkedin.com/in/naile-yalgettekin-2b8a43100/)  
 - 🔗 [GitHub](https://github.com/yalgettekin)  
 
 ---
 
-## 🗂️ My Portfolio Projects  
+##  My Portfolio Projects  
 
 ### Izmir Urban Insights  
 Exploring urban structure and demographic trends in Izmir/Turkey through data analysis and Python notebooks.  
@@ -46,7 +46,7 @@ Analyzing green space accessibility in İzmir using **Python for data analysis a
 
 ---
 
-## 🛠️ Technical Skills  
+##  Technical Skills  
 - **Programming:** Python (**Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn**)  
 - **Machine Learning:** Supervised & Unsupervised Learning (**Scikit-learn**)  
 - **GIS & Mapping:** **GeoPandas, QGIS, OpenStreetMap, Folium**  
